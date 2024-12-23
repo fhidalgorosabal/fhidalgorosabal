@@ -2,10 +2,11 @@
 
 **`Ingeniero en Ciencias Informáticas | Desarrollador Web Full-Stack`**
 
-¡Hola! Soy Fernando, un apasionado desarrollador de software nacido en Cuba y actualmente viviendo en Brasil. Me gradué como Ingeniero en Ciencias Informáticas y he dedicado mi carrera a la programación, con experiencia en el desarrollo de aplicaciones web.
+¡Hola! Soy Fernando, un apasionado desarrollador de software nacido en Cuba y actualmente viviendo en Brasil. Me gradué como Ingeniero en Ciencias Informáticas y he dedicado mi carrera a la programación con mayor experiencia en el desarrollo de aplicaciones web.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Lenguajes y Tecnologías
 
 <img 
     align="left" 
@@ -38,6 +39,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -97,14 +106,6 @@
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -112,4 +113,4 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
+---
