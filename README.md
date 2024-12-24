@@ -158,6 +158,38 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
 />
+<img 
+    align="left" 
+    alt="CodeIgniter" 
+    title="CodeIgniter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"
+/>
+<img 
+    align="Jira" 
+    alt="Jira" 
+    title="Ionic"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
+/>
+<img 
+    align="Confluence" 
+    alt="Confluence" 
+    title="Ionic"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"
+/>
+<img 
+    align="Figma" 
+    alt="Figma" 
+    title="Ionic"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+/>
 
 <br/>
 
