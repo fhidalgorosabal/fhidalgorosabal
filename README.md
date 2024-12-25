@@ -46,12 +46,26 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/projects_screenshots/SNB Mobile.png" alt="SNB Mobile" height="200px" /><br />
+      <img src="./assets/projects_screenshots/SNB Mobile.png" alt="SNB Mobile" height="150px" /><br />
       <strong>SNB Mobile</strong>
     </td>
     <td align="center">
       <img src="./assets/projects_screenshots/Aljuf.png" alt="Aljuf" width="200px" /><br />
       <strong>Aljuf</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/projects_screenshots/Tic tac toe.png" alt="Tic tac toe" width="200px" /><br />
+      <strong>Tic tac toe</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/projects_screenshots/GifExpertApp.png.png" alt="GifExpertApp" width="200px" /><br />
+      <strong>GifExpertApp</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/projects_screenshots/Calculator.png" alt="Calculator" width="200px" /><br />
+      <strong>Calculator</strong>
     </td>
   </tr>
 </table>
