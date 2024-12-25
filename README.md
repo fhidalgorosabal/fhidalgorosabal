@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/projects_screenshots/GifExpertApp.png.png" alt="GifExpertApp" width="200px" /><br />
+      <img src="./assets/projects_screenshots/GifExpertApp.png" alt="GifExpertApp" width="200px" /><br />
       <strong>GifExpertApp</strong>
     </td>
     <td align="center">
