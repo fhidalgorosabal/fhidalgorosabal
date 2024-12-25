@@ -201,7 +201,7 @@
     align="right" 
     alt="TranSoft"
     title="TranSoft" 
-    width="30%" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="./assets/projects_screenshots/TranSoft.png" 
 />
@@ -209,7 +209,7 @@
     align="right" 
     alt="FinanceApp"
     title="FinanceApp" 
-    width="30%" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="./assets/projects_screenshots/FinanceApp.png" 
 />
@@ -217,7 +217,7 @@
     align="right" 
     alt="SAGEN"
     title="SAGEN" 
-    width="30%" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="./assets/projects_screenshots/SAGEN.jpg" 
 />
@@ -225,7 +225,8 @@
     align="right" 
     alt="SNB Mobile"
     title="SNB Mobile" 
-    width="30%" 
+    width="300px" 
+    height="300px"
     style="padding-right: 10px;" 
     src="./assets/projects_screenshots/SNB Mobile.png" 
 />
@@ -233,7 +234,7 @@
     align="right" 
     alt="Aljuf"
     title="Aljuf" 
-    width="30%" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="./assets/projects_screenshots/Aljuf.png" 
 />
