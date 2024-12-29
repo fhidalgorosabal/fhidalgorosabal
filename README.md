@@ -68,7 +68,7 @@
   <tr>
     <td align="center">
       <img src="./assets/projects_screenshots/Aljuf.png" alt="Jameel Business" width="500px" /><br />
-      <p align="left"><strong>Jameel Business (Aljuf Finance):</strong> Aplicación bancaria desarrollada en Angular por Crealogix, donde participé como parte del equipo de desarrollo. Ofrece soluciones financieras avanzadas para pequeñas y medianas empresas. Como la solicitud de financiamiento digital y consulta de contratos de manera rápida y sencilla desde un teléfono o computadora.</p>
+      <p align="left"><strong>Jameel Business (Aljuf Finance):</strong> Jamel Business Mobile, Jamel Business Desktop y Jamel Business Admin forman un conjunto de aplicaciones avanzadas desarrolladas en Angular exclusivamente para ALJUF Finance por Crealogix, donde participé como parte del equipo de desarrollo. Permite la solicitud de financiamiento digital y consulta de contratos de manera rápida y sencilla desde un teléfono o computadora.</p>
     </td>
     <td align="center">
       <img src="./assets/projects_screenshots/Tic tac toe.png" alt="Tic tac toe" width="500px" /><br />
