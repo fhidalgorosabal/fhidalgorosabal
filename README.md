@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Fernando Hidalgo Rosabal  
 
-<span style="float:right;">🌍 [English](lang/README-en.md) | [Português](lang/README-pt.md)</span>
+<span style="float:right;">🌍 [English](./lang/README-en.md) | [Português](./lang/README-pt.md)</span>
 
 **`Ingeniero en Ciencias Informáticas | Desarrollador Web Full-Stack`**
 
