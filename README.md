@@ -47,11 +47,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/projects_screenshots/TranSoft.png" alt="TranSoft" width="500px" /><br />
+      <a href="https://github.com/fhidalgorosabal/transoft">
+        <img src="./assets/projects_screenshots/TranSoft.png" alt="TranSoft" width="500px" />
+      </a>
+      <br />
       <p align="left"><strong>TranSoft:</strong> Sistema desarrollado en CodeIgniter 3.0.6, Bootstrap v2.3.2 y jQuery 1.9.1 como parte del proyecto de tesis de la carrera de Ingeniería en Ciencias Informáticas. Está diseñado para gestionar la información relacionada con el transporte.</p>
     </td>
     <td align="center">
-      <img src="./assets/projects_screenshots/FinanceApp.png" alt="FinanceApp" width="500px" /><br />
+      <a href="https://github.com/fhidalgorosabal/frontend-finance-app">
+        <img src="./assets/projects_screenshots/FinanceApp.png" alt="FinanceApp" width="500px" />
+      </a>
+      <br />
       <p align="left"><strong>FinanceApp:</strong> Aplicación web desarrollada en Angular 13.0.0 con NgPrime 13.1.0 (frontend) y Laravel 9.0.0 (backend). Es creada para la gestión financiera de manera eficiente, ya sea a nivel personal o para pequeñas empresas.</p>
     </td>
   </tr>
@@ -71,17 +77,26 @@
       <p align="left"><strong>Jameel Business (Aljuf Finance):</strong> Jamel Business Mobile, Jamel Business Desktop y Jamel Business Admin forman un conjunto de aplicaciones avanzadas desarrolladas en Angular exclusivamente para ALJUF Finance por Crealogix, donde participé como parte del equipo de desarrollo. Permite la solicitud de financiamiento digital y consulta de contratos de manera rápida y sencilla desde un teléfono o computadora.</p>
     </td>
     <td align="center">
-      <img src="./assets/projects_screenshots/Tic tac toe.png" alt="Tic tac toe" width="500px" /><br />
+      <a href="https://github.com/fhidalgorosabal/tic-tac-toe">
+        <img src="./assets/projects_screenshots/Tic tac toe.png" alt="Tic tac toe" width="500px" />
+      </a>
+      <br />
       <p align="left"><strong>Tic tac toe:</strong> Aplicación desarrollada en React 18.3.1 como parte del curso "Aprendiendo React" de Midudev. Esta aplicación recrea el clásico juego del gato (tres en raya) con una interfaz sencilla pero ideal para practicar conceptos fundamentales de React.</p>
     </td>
   </tr>  
   <tr>  
     <td align="center">
-      <img src="./assets/projects_screenshots/GifExpertApp.png" alt="GifExpertApp" width="500px" /><br />
+      <a href="https://github.com/fhidalgorosabal/gif-expert-app">
+        <img src="./assets/projects_screenshots/GifExpertApp.png" alt="GifExpertApp" width="500px" />
+      </a>
+      <br />
       <p align="left"><strong>GifExpertApp</strong> Aplicación desarrollada en React 18.3.1 y Bootstrap 5.3.3 como parte del curso "React: De cero a experto (Hooks y MERN)" de Fernando Herrera. Esta aplicación permite buscar y mostrar GIFs animados utilizando la API de <a href="https://developers.giphy.com">Giphy</a>.</p>
     </td>
     <td align="center">
-      <img src="./assets/projects_screenshots/Calculator.png" alt="Calculator" width="500px" /><br />
+      <a href="https://github.com/fhidalgorosabal/calculator">
+        <img src="./assets/projects_screenshots/Calculator.png" alt="Calculator" width="500px" />
+      </a>
+      <br />
       <p align="left"><strong>Calculator</strong> Aplicación desarrollada en Angular 19.0.1 y Tailwind CSS como parte del curso "Angular Pro: Lleva tus bases al siguiente nivel" de Fernando Herrera. Es una implementación práctica que destaca las nuevas características de las nuevas versiones de Angular.</p>
     </td>
   </tr>
