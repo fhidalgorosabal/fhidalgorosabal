@@ -100,6 +100,15 @@
       <p align="left"><strong>Calculator</strong> Aplicación desarrollada en Angular 19.0.1 y Tailwind CSS como parte del curso "Angular Pro: Lleva tus bases al siguiente nivel" de Fernando Herrera. Es una implementación práctica que destaca las nuevas características de las nuevas versiones de Angular.</p>
     </td>
   </tr>
+  <tr>  
+    <td align="center">
+      <a href="https://github.com/fhidalgorosabal/movie-app">
+        <img src="./assets/projects_screenshots/MovieApp.png" alt="MovieApp" width="500px" />
+      </a>
+      <br />
+      <p align="left"><strong>MovieApp</strong> Aplicación desarrollada en **React 18.3.1** que muestra un listado de las últimas películas del año. Utiliza la API de <a href="https://developer.themoviedb.org/docs/getting-started">The Movie Database (TMDB)</a>.</p>
+    </td>
+  </tr>  
 </table>
 
 ---
